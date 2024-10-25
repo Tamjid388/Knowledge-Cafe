@@ -4,9 +4,9 @@
         "cover": "https://i.postimg.cc/RCkLkFvY/pexels-prime-cinematics-1005175-2057386.jpg",
         "title": "The Silent Ocean",
         "author": "Alice Green",
-        "author_image": "https://images.pexels.com/photos/3772623/pexels-photo-3772623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author_image": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
         "posted_date": "2023-05-01",
-        "reading_time": "15 min",
+        "reading_time": 15,
         "hashtags": ["#Fiction", "#Adventure", "#Ocean"]
     },
     {
@@ -14,9 +14,9 @@
         "cover": "https://images.pexels.com/photos/4240498/pexels-photo-4240498.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "title": "Mystery in the Shadows",
         "author": "John Doe",
-        "author_image": "https://images.pexels.com/photos/3772623/pexels-photo-3772623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author_image": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
         "posted_date": "2023-06-15",
-        "reading_time": "20 min",
+        "reading_time": 20,
         "hashtags": ["#Mystery", "#Thriller", "#Shadows"]
     },
     {
@@ -24,9 +24,9 @@
         "cover": "https://images.pexels.com/photos/4240571/pexels-photo-4240571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "title": "The Last Kingdom",
         "author": "Sarah Connor",
-        "author_image": "https://images.pexels.com/photos/3772623/pexels-photo-3772623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author_image": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
         "posted_date": "2023-07-20",
-        "reading_time": "25 min",
+        "reading_time": 27,
         "hashtags": ["#Fantasy", "#Epic", "#Kingdom"]
     },
     {
@@ -34,9 +34,9 @@
         "cover": "https://images.pexels.com/photos/276720/pexels-photo-276720.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "title": "Cooking with Love",
         "author": "Emily Richards",
-        "author_image": "https://images.pexels.com/photos/3772623/pexels-photo-3772623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author_image": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
         "posted_date": "2023-08-05",
-        "reading_time": "10 min",
+        "reading_time": 10,
         "hashtags": ["#Cooking", "#Recipes", "#Food"]
     },
     {
@@ -44,9 +44,9 @@
         "cover": "https://images.pexels.com/photos/4348401/pexels-photo-4348401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "title": "Tech Trends of Tomorrow",
         "author": "Michael Smith",
-        "author_image": "https://images.pexels.com/photos/3772623/pexels-photo-3772623.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "author_image": "https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745",
         "posted_date": "2023-09-10",
-        "reading_time": "30 min",
+        "reading_time": 30,
         "hashtags": ["#Technology", "#Trends", "#Future"]
     }
 ]
